@@ -28,4 +28,6 @@ python public_tweets.py --crawl-public-tweets
 UI
 ==
 
-There is a rudimentary
+There is a rudimentary ui for searching the indexed data. It is based on flask and bootstrap. Used google visualization library and [http://dygraphs.com/] for graphs. Checkout ui/server.py
+
+![ScreenShot](http://static.sairahul.com/tweetsense_1.png)
