@@ -1,4 +1,4 @@
-tweetsense
+TweetSense
 ==========
 
 This project is developed for demonstrating how to use various tools together.
